@@ -1,0 +1,12 @@
+1 dfs & bfs--> g++ -o dfs -fopenmp dfs.cpp
+		./dfs
+
+2. bubble sort-->g++ -std equalto c++11 -o bubble bubble.cpp -fopenmp
+		./bubble
+
+ merge sort-->g++ -o merge -foopenmp merge.cpp
+		./merge
+
+
+3. min max,sum-->g++ -o min -fopenmp min.cpp
+		./min
